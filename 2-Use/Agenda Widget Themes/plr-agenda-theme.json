@@ -1,0 +1,57 @@
+{
+  "appearance": {
+    "list_background_rounded_corners": true,
+    "list_background_padding": 0,
+    "highlight_today_events": true,
+    "layout_appearance": "super_compact",
+    "list_background_color": 0,
+    "highlight_running_events": false
+  },
+  "toolbar_appearance": {
+    "show_widget_settings_icon": false,
+    "toolbar_date_format": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "toolbar_title_size": 17,
+    "show_calendar_icon": false,
+    "show_toolbar": false,
+    "toolbar_opacity": 16,
+    "toolbar_actions": "a",
+    "show_calendar_add_event_icon": false,
+    "show_force_sync": false,
+    "rounded_corners": true
+  },
+  "events": {
+    "event_location_size": 12,
+    "event_color_opacity": 38,
+    "event_spacing": 4,
+    "invert_time_label": false,
+    "event_description_size": 25,
+    "highlights_text_color2": -1,
+    "color_label_shape": "circle",
+    "event_date_size": 17,
+    "event_time_size": 8,
+    "event_color": -16777216,
+    "round_top_bottom": false,
+    "rounded_rectangle": true,
+    "compact_time_range": false,
+    "label_color_as_background": true,
+    "highlight_event_color_opacity": 19,
+    "event_highlight_color": -1,
+    "events_text_color2": -1,
+    "show_event_colors": true,
+    "rounded_corners": true
+  },
+  "grouped_events": {
+    "header_opacity": 0,
+    "header_title_text_size": 12,
+    "group_events": true,
+    "header_title_text_color2": -2429439,
+    "header_spacing": 0,
+    "background_color": -1,
+    "rounded_corners": true
+  }
+}
